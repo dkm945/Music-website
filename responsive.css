@@ -1,0 +1,73 @@
+@media screen and (min-width: 660px) {
+    
+    /**********
+    HEADER
+    **********/
+    
+    .logo {
+        float: left;
+        margin-left: 5%;
+        text-align: left;
+        width: 45%;
+    }
+    
+    h1 {
+        font-size: 2.5em;
+    }
+    
+    h2 {
+        margin-bottom: 20px;
+    }
+    
+    nav {
+        float: right;
+        font-size: 1.3em;
+        text-align: right;
+        margin-right: 5%;
+        width: 45%;
+    }
+    
+    header {
+        margin-bottom: 60px;
+    }
+    
+    /**********
+    ABOUT
+    **********/
+    
+    .Profile-picture {
+        width: 45%;
+        float: left;
+        max-width: 285px;
+    }
+    
+    .text {
+        width: 50%;
+        float: right;
+    }
+    
+    /**********
+    REPERTOIRE
+    **********/
+    
+    .repmed {
+        margin-left: 20%
+    }
+    
+    /**********
+    CONTACT
+    **********/
+    
+    .left {
+        width: 50%;
+        margin-left: 5%;
+        float: left;
+    }
+    
+    .right {
+        width: 45%;
+        float: right;
+    }
+    
+    
+}
